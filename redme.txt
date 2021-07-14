@@ -1,2 +1,10 @@
 git start
-git diff
+git command
+
+git init
+git add
+git commit -m
+git checkout -- 
+git reset --hard HEAD
+git log 
+git reflog
